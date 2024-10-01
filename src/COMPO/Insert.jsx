@@ -40,7 +40,7 @@ const Insert = () => {
   return (
     <div className="flex flex-col items-center">
       <h1 className="text-xl font-bold mb-4">Image Upload</h1>
-      <label className="flex items-center justify-center w-32 h-32 border-2 border-dashed border-gray-300 rounded-lg cursor-pointer mb-4">
+      <label className="flex items-center justify-center w-32 h-32 border-2 border-dashed rounded-lg cursor-pointer mb-4">
         <input 
           type="file" 
           accept="image/*" 
